@@ -15,17 +15,17 @@ A simple game made using Javascript, HTML5 Canvas and CSS3.
 ```
 +
 |
-|--- index.html
+|------ index.html
 |
-|--- js
+|------ js
 |	|
 |	|--- main.js
 |
-|--- css
+|------ css
 |	|
 |	|--- index.css
 |
-|--- README.md
+|------ README.md
 |
 +
 ```
