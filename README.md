@@ -9,3 +9,23 @@ A simple game made using Javascript, HTML5 Canvas and CSS3.
 2. Open the extracted folder and search for index.html
 3. Run index.html file using chrome browser
 ```
+
+## FOLDER STRUCTURE
+
+```
++
+|
+|--- index.html
+|
+|--- js
+|	|
+|	|--- main.js
+|
+|--- css
+|	|
+|	|--- index.css
+|
+|--- README.md
+|
++
+```
